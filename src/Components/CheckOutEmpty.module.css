@@ -1,0 +1,16 @@
+.container{
+    width: 100%;
+    
+}
+.container P{
+    color: red;
+    font-size: 3vw;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.container img{
+    width: 40%;
+    height: 40%;
+    margin: 0 10%;
+}
